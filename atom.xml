@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://gridea-blog</id>
+    <id>https://KarlShing.github.io</id>
     <title>Gridea</title>
-    <updated>2021-06-06T06:58:49.331Z</updated>
+    <updated>2021-06-06T07:05:15.947Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://gridea-blog"/>
-    <link rel="self" href="https://gridea-blog/atom.xml"/>
+    <link rel="alternate" href="https://KarlShing.github.io"/>
+    <link rel="self" href="https://KarlShing.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://gridea-blog/images/avatar.png</logo>
-    <icon>https://gridea-blog/favicon.ico</icon>
+    <logo>https://KarlShing.github.io/images/avatar.png</logo>
+    <icon>https://KarlShing.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://gridea-blog/post/hello-gridea/</id>
-        <link href="https://gridea-blog/post/hello-gridea/">
+        <id>https://KarlShing.github.io/post/hello-gridea/</id>
+        <link href="https://KarlShing.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
