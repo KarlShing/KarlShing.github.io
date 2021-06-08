@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KarlShing.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-06-06T07:11:00.875Z</updated>
+    <title>Shing的博客(❁´◡`❁)</title>
+    <updated>2021-06-08T07:07:02.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://KarlShing.github.io"/>
     <link rel="self" href="https://KarlShing.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>一个懒人的随手记</subtitle>
     <logo>https://KarlShing.github.io/images/avatar.png</logo>
     <icon>https://KarlShing.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, Shing的博客(❁´◡`❁)</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://KarlShing.github.io/post/hello-gridea/</id>
